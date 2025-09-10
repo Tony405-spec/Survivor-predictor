@@ -1,12 +1,3 @@
-# ***Titanic Survival Predictor***
-
-A collaborative project implementing Kaggle’s *Titanic: Machine Learning from Disaster* challenge.
-
-**Focus areas**:
-
-* **Data Science** → Data cleaning, preprocessing, feature engineering, and development of predictive models to estimate passenger survival probabilities.
-* **Web Development** → Design and deployment of a lightweight interface/API enabling user input of passenger attributes for real-time survival prediction.
-
-This repository demonstrates an **end-to-end machine learning workflow**—from data acquisition to model deployment—while showcasing effective cross-disciplinary collaboration and version control practices.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=87CEEB&center=true&vCenter=true&width=950&lines=Initializing+Survivor+Predictor+Core...;Loading+Titanic+Passenger+Manifests...;Running+Survival+Probability+Models...;Skynet+Outcome+Engine+Online" alt="Typing SVG" />
+</p>
