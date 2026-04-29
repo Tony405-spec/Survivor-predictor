@@ -13,7 +13,7 @@
 
 ---
 
-# 🚢 Survivor Predictor
+#  **`Survivor Predictor`**
 
 ## *Foundational deep learning project*
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔥 Live Demo
+## **`Live Demo`**
 
 <p align="center">
   <img src="assets/survivor-demo.gif" alt="Titanic survival predictions in action" width="85%">
@@ -36,7 +36,7 @@
 
 ---
 
-## 📜 The Dataset
+## **`The Dataset`**
 
 **891 passengers. 12 features. One question: Who survives?**
 
