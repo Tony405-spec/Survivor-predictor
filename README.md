@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/🧠_MODEL-Neural_Network-00FF00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/📊_DATA-891_Passengers-00FF00?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/🎯_ACCURACY-85%25-00FF00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🐍_CODE-Python_3.9+-00FF00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
 </p>
 
 ---
@@ -60,3 +61,11 @@
 
 ---
 
+## **`Model Architecture`**
+
+```python
+TitanicNN(
+  (layer1): Linear(7 → 64) + ReLU + Dropout(0.2)
+  (layer2): Linear(64 → 32) + ReLU
+  (layer3): Linear(32 → 1) + Sigmoid
+)
